@@ -1,0 +1,27 @@
+body {
+    background-image: url('sign.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+    h1 {
+      color:black;
+      text-align: center;
+    }
+    
+    p {
+      font-family: verdana;
+      font-size: 20px;
+      
+      
+    }
+    form {
+            
+            background-color: lightgrey;
+            width: 300px;
+            border: 5px solid rgb(241, 138, 4);
+            padding: 90px;
+            margin: 500px;
+          
+    }
